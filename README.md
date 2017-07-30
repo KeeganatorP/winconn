@@ -1,0 +1,1 @@
+https://bmullan.wordpress.com/2012/09/17/howto-integrate-windows-apps-into-the-ubuntu-linux-desktop-using-windows-remoteapp/https://bmullan.wordpress.com/2012/09/17/howto-integrate-windows-apps-into-the-ubuntu-linux-desktop-using-windows-remoteapp/
